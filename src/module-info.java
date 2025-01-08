@@ -4,6 +4,6 @@
 /**
  * 
  */
-module jdbc1 {
+module demoDaoJbdc {
 	requires java.sql;
 }
